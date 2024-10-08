@@ -1,5 +1,5 @@
 import React from "react";
-import Image1 from "../../assets/Hero/Women.png";
+import Image1 from "../../assets/Hero/women.png";
 import Image2 from "../../assets/Hero/shopping.png";
 import Image3 from "../../assets/Hero/sale.png";
 import Slider from "react-slick/lib/slider";
